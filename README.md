@@ -3,6 +3,9 @@
 
 This is my template vault for an Obsidian knowledge base, inspired by this [awesome setup](https://youtu.be/rAkerV8rlow) and this way of [structuring information](https://www.youtube.com/watch?v=hSTy_BInQs8&t=643s). Watch the videos for a full rundown of the plugins, functionality and an explanation on how to use the folders to store and retrieve your information effectively. This is no "right way" to setup Obsidian, so please experiment until you find a configuration that suits you.
 
+![image](https://github.com/user-attachments/assets/0adb3dd8-7e04-4a80-a340-ad0a994ea2e7)
+
+
 ### Themes included
 
 - Tokyo Night (a dark theme that matches my VSCode setup)
